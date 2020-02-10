@@ -10,7 +10,7 @@ I just use windows to play steam games
 ### which opensource projects I admire a lot
 busybox
 
-## which linuxes I like
+### which linuxes I like
 lubuntu, void, alpine, slax
 
 ### which programming languages I like a lot
