@@ -22,9 +22,6 @@ html, css, sass, php, js, sh, sql
 ### which tools I frequently use
 git, npm, composer, ssh, trello, telegram, slack
 
-### my "programming way"
-structured programming + functional programming > object oriented programming
-
 ### what I think about me that differs from a lot other programmers
 I have computing science in my heart. I like a lot of CS areas, the computing basis, I don't just program to earn my day-to-day cash to live. I just love creating technologies because is fun, create beauty technology things is an art. Computing is like that, more than just science.
 
@@ -35,6 +32,7 @@ I have computing science in my heart. I like a lot of CS areas, the computing ba
 - 4 spaces > 2 spaces (when the first item in this list is not applicable)
 - K&R coding style
 - gpl licenses
+- functional programming is better
 - suckless software 
 - foss
 - backend decoupled from frontend
